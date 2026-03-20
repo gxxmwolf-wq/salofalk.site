@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Host: https://suxilep.site
-Sitemap: https://suxilep.site/sitemap.xml
+Host: https://salofalk.site
+Sitemap: https://salofalk.site/sitemap.xml
